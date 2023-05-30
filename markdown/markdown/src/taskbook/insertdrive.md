@@ -6,7 +6,7 @@ author: Howe Tuduit
 
 The drive needs to be attached to power cables and other cables inside the computer.
 
-CAUTION:
+BEWARE:
 
 You must be grounded before doing this.
 
